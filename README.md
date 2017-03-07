@@ -13,6 +13,6 @@ Running Ball là một game 3D được xây dựng bằng Unity3D nên có th�
 <br>
 -Bước 1: Tải project về máy<br>
 -Bước 2: Tải file này: https://drive.google.com/open?id=0B-mM8A1RvGBVcmM2TGtkN1Znb1E về sau đó giải nén => copy vào thư mục Assets của project (Do các gói này khá nặng nên mình up lên google để các bạn dễ download):<br>
--Bước 3: Chạy thôi =))
+-Bước 3: Chạy thôi =))<br>
 Chúc các bạn thành công!
 
